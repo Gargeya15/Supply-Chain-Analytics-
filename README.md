@@ -69,6 +69,8 @@ Created:
 
 ## Model View
 
+![Model View]## Model View
+
 ![Model View](Images/Supply Chain Model View.png)
 
 ---
